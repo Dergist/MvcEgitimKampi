@@ -1,0 +1,12 @@
+E:\Eğitim Videolarım\Mvc Calismalarım\MvcProjeKampi\MvcProjeKampi\EntityLayer\bin\Debug\EntityLayer.dll.config
+E:\Eğitim Videolarım\Mvc Calismalarım\MvcProjeKampi\MvcProjeKampi\EntityLayer\bin\Debug\EntityLayer.dll
+E:\Eğitim Videolarım\Mvc Calismalarım\MvcProjeKampi\MvcProjeKampi\EntityLayer\bin\Debug\EntityLayer.pdb
+E:\Eğitim Videolarım\Mvc Calismalarım\MvcProjeKampi\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.dll
+E:\Eğitim Videolarım\Mvc Calismalarım\MvcProjeKampi\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Eğitim Videolarım\Mvc Calismalarım\MvcProjeKampi\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.xml
+E:\Eğitim Videolarım\Mvc Calismalarım\MvcProjeKampi\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Eğitim Videolarım\Mvc Calismalarım\MvcProjeKampi\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+E:\Eğitim Videolarım\Mvc Calismalarım\MvcProjeKampi\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+E:\Eğitim Videolarım\Mvc Calismalarım\MvcProjeKampi\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+E:\Eğitim Videolarım\Mvc Calismalarım\MvcProjeKampi\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.dll
+E:\Eğitim Videolarım\Mvc Calismalarım\MvcProjeKampi\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.pdb

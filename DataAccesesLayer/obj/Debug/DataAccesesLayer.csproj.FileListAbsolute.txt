@@ -1,0 +1,17 @@
+E:\Eğitim Videolarım\Mvc Calismalarım\MvcProjeKampi\MvcProjeKampi\DataAccesesLayer\bin\Debug\DataAccesesLayer.dll.config
+E:\Eğitim Videolarım\Mvc Calismalarım\MvcProjeKampi\MvcProjeKampi\DataAccesesLayer\bin\Debug\DataAccesesLayer.dll
+E:\Eğitim Videolarım\Mvc Calismalarım\MvcProjeKampi\MvcProjeKampi\DataAccesesLayer\bin\Debug\DataAccesesLayer.pdb
+E:\Eğitim Videolarım\Mvc Calismalarım\MvcProjeKampi\MvcProjeKampi\DataAccesesLayer\bin\Debug\EntityFramework.dll
+E:\Eğitim Videolarım\Mvc Calismalarım\MvcProjeKampi\MvcProjeKampi\DataAccesesLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Eğitim Videolarım\Mvc Calismalarım\MvcProjeKampi\MvcProjeKampi\DataAccesesLayer\bin\Debug\EntityLayer.dll
+E:\Eğitim Videolarım\Mvc Calismalarım\MvcProjeKampi\MvcProjeKampi\DataAccesesLayer\bin\Debug\EntityLayer.pdb
+E:\Eğitim Videolarım\Mvc Calismalarım\MvcProjeKampi\MvcProjeKampi\DataAccesesLayer\bin\Debug\EntityLayer.dll.config
+E:\Eğitim Videolarım\Mvc Calismalarım\MvcProjeKampi\MvcProjeKampi\DataAccesesLayer\bin\Debug\EntityFramework.xml
+E:\Eğitim Videolarım\Mvc Calismalarım\MvcProjeKampi\MvcProjeKampi\DataAccesesLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Eğitim Videolarım\Mvc Calismalarım\MvcProjeKampi\MvcProjeKampi\DataAccesesLayer\obj\Debug\DataAccesesLayer.csprojAssemblyReference.cache
+E:\Eğitim Videolarım\Mvc Calismalarım\MvcProjeKampi\MvcProjeKampi\DataAccesesLayer\obj\Debug\DataAccesesLayer.csproj.CoreCompileInputs.cache
+E:\Eğitim Videolarım\Mvc Calismalarım\MvcProjeKampi\MvcProjeKampi\DataAccesesLayer\obj\Debug\DataAccesesLayer.csproj.CopyComplete
+E:\Eğitim Videolarım\Mvc Calismalarım\MvcProjeKampi\MvcProjeKampi\DataAccesesLayer\obj\Debug\DataAccesesLayer.dll
+E:\Eğitim Videolarım\Mvc Calismalarım\MvcProjeKampi\MvcProjeKampi\DataAccesesLayer\obj\Debug\DataAccesesLayer.pdb
+E:\Eğitim Videolarım\Mvc Calismalarım\MvcProjeKampi\MvcProjeKampi\DataAccesesLayer\obj\Debug\DataAccesesLayer.Migrations.mig1.resources
+E:\Eğitim Videolarım\Mvc Calismalarım\MvcProjeKampi\MvcProjeKampi\DataAccesesLayer\obj\Debug\DataAccesesLayer.csproj.GenerateResource.cache
